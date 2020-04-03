@@ -17,7 +17,7 @@
         android:label="flutter_mqtt_location_example"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="API_KEY"/>
+            android:value="AIzaSyDWBpK_kAMtFk3CpOdNjM0Lz7HqSi0tsTI"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
